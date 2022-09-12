@@ -1,5 +1,6 @@
 use libloragw_sx1302::hal;
 
+pub mod multitech;
 pub mod rak;
 pub mod seeed;
 pub mod semtech;
